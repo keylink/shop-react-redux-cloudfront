@@ -1,5 +1,9 @@
 # React-shop-cloudfront
 
+S3 and CloudFront links
+- [http://myshop-bucket.s3-website-eu-west-1.amazonaws.com](http://myshop-bucket.s3-website-eu-west-1.amazonaws.com)
+Unfortunately CloudFront not available for free tier
+
 This is frontend starter project for nodejs-aws mentoring program. It uses the following technologies:
 
 - [Vite](https://vitejs.dev/) as a project bundler
