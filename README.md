@@ -1,6 +1,7 @@
 # React-shop-cloudfront
 
 S3 and CloudFront links
+- [S3 Website](http://myshop-bucket.s3-website-eu-west-1.amazonaws.com/)
 - [CloudFront S3 Website](https://d14k888n3xn2m2.cloudfront.net/)
 - [CloudFront Serverless URL](https://d2z0j37xyzp4h.cloudfront.net/)
 
